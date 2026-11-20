@@ -94,6 +94,12 @@ Regel: Drive „01 – Vorgehen“ §4, Rechte-Gate. Ohne belegte Rechte für Pi
 
 Renderdetails, Vorlagen und Produktionsdateien bleiben in diesem Repo, in Drive liegen keine Kopien davon. In Drive (`70 Natuvalo/Kampagnen/<Kampagne>/Medien/`) kommt nur die stabile Finalfassung je Pin, und zwar genau einmal, mit dem Namen `JJJJ-MM-TT – Pinterest natuvalo – <Titel>.jpg`.
 
-## Offene Frage (Founder)
+## Freigabe und Zuständigkeit (Founder 20.11.2026)
 
-Wenn ChatGPT den Weihnachtsvorrat C21–C47 mit dieser Vorlage rendert, ist das Produktion. Nach Drive „00 – Bedienregeln“ und „01 – Vorgehen“ liefert Claude die Medien/ und schreibt die Rechtebelege in 02, ChatGPT prüft in 04. Wer bei C21–C47 Medien/ und die 02-Rechtebelege einträgt, ist noch offen und von Christian zu entscheiden.
+- **Optik der Vorlage** ist freigegeben: „sieht gut aus, kann verwendet werden. zumindest von der optik, rechte unbedingt bitte immer vorher klären.“ Die Rechte werden also für jedes Bild vor dem Rendern geklärt und belegt.
+- **Medien/ und 02-Rechtebelege** werden so gepflegt, wie es in Drive steht („drive ist die golden source“). Laut „00“ und „01“ liefert Claude Medien/ und schreibt 02, ChatGPT prüft in 04 und führt das Veröffentlichungsbuch.
+- **Von ChatGPT erzeugte Bilder** (z. B. für C21–C47) dürfen nach Founder-Aussage kommerziell genutzt werden, wenn sicher belegt ist, dass sie von ChatGPT erzeugt wurden. Für den Herkunftsnachweis in 02 gilt deshalb:
+  - Tool und Modell, Erstellungsdatum und Original-Datei oder Link zum Chat angeben.
+  - Auf die OpenAI-Nutzungsbedingungen verweisen.
+  - Ein KI-Flag setzen.
+  - Ohne diesen Beleg wird das Bild nicht verwendet. C2PA-Metadaten zählen als Hinweis, aber nicht als Lizenz.
